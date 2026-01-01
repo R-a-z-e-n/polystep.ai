@@ -1,0 +1,7 @@
+{
+  "name": "PolyStepAI",
+  "description": "An AI-powered language learning platform for intermediate learners, bridging the gap between beginner drills and advanced fluency with real-time conversation, grammar depth, and cultural context.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
